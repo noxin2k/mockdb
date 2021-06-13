@@ -1,4 +1,6 @@
-[
+  
+{
+  "posts": [
   {
     "id": 1,
     "title": "Si Oren",
@@ -40,3 +42,4 @@
     "image": "https://noxin2k.github.io/Images/kuning.jpg"
   }
 ]
+}
