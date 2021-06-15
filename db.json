@@ -3,32 +3,29 @@
     {
       "id": "p1",
       "title": "Si Oren",
-      "price": 91000.00,
+      "price": 91000.0,
       "description": "Baju Oren milik si oren",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/orange.png",
       "images": [
         {
           "id": "p1-1",
-          "url": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-          "type": "image/jpeg",
+          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
         },
         {
           "id": "p1-2",
-          "url": "https://noxin2k.github.io/Images/orange.png",
-          "type": "image/jpeg",
+          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
         },
         {
           "id": "p1-3",
-          "url": "https://noxin2k.github.io/Images/putih.png",
-          "type": "image/jpeg",
-        } 
+          "url": "https://noxin2k.github.io/Images/orange.png"
+        }
       ]
     },
     {
       "id": "p2",
       "title": "Ungu",
-      "price": 401000.00,
+      "price": 401000.0,
       "description": "Baju Ungu milik si ungu",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/purple.jpg"
@@ -36,7 +33,7 @@
     {
       "id": "p3",
       "title": "Putih",
-      "price": 500000.00,
+      "price": 500000.0,
       "description": "Baju Putih",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/putih.png"
@@ -44,7 +41,7 @@
     {
       "id": "p4",
       "title": "Merah",
-      "price": 1000000.00,
+      "price": 1000000.0,
       "description": "Baju Merah",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/merah.png"
@@ -52,7 +49,7 @@
     {
       "id": "p5",
       "title": "Kuning",
-      "price": 200000.00,
+      "price": 200000.0,
       "description": "Baju Kuning",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/kuning.jpg"
@@ -119,7 +116,7 @@
     {
       "id": "p1",
       "title": "Si Oren",
-      "price": 91000.00,
+      "price": 91000.0,
       "description": "Baju Oren milik si oren",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/orange.png"
@@ -127,7 +124,7 @@
     {
       "id": "p2",
       "title": "Ungu",
-      "price": 401000.00,
+      "price": 401000.0,
       "description": "Baju Ungu milik si ungu",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/purple.jpg"
@@ -135,7 +132,7 @@
     {
       "id": "p3",
       "title": "Putih",
-      "price": 500000.00,
+      "price": 500000.0,
       "description": "Baju Putih",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/putih.png"
@@ -143,7 +140,7 @@
     {
       "id": "p4",
       "title": "Merah",
-      "price": 1000000.00,
+      "price": 1000000.0,
       "description": "Baju Merah",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/merah.png"
@@ -151,7 +148,7 @@
     {
       "id": "p5",
       "title": "Kuning",
-      "price": 200000.00,
+      "price": 200000.0,
       "description": "Baju Kuning",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/kuning.jpg"
@@ -216,7 +213,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     }
   ],
-  
+
   "profile": {
     "name": "typicode"
   }
