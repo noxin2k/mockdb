@@ -29,20 +29,7 @@
       "description": "Baju Ungu milik si ungu",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/purple.jpg",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/purple.jpg"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "p3",
@@ -51,20 +38,7 @@
       "description": "Baju Putih",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/putih.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/putih.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "p4",
@@ -73,20 +47,7 @@
       "description": "Baju Merah",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/merah.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/merah.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "p5",
@@ -95,20 +56,7 @@
       "description": "Baju Kuning",
       "category": "Pakaian",
       "image": "https://noxin2k.github.io/Images/kuning.jpg",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/kuning.jpg"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b1",
@@ -118,20 +66,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b2",
@@ -140,20 +75,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b3",
@@ -162,20 +84,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b4",
@@ -184,20 +93,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b5",
@@ -206,20 +102,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b6",
@@ -228,20 +111,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "id": "b7",
@@ -250,20 +120,7 @@
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png",
-      "images": [
-        {
-          "id": "p1-1",
-          "url": "https://noxin2k.github.io/Images/orange.png"
-        },
-        {
-          "id": "p1-2",
-          "url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
-        },
-        {
-          "id": "p1-3",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
-        }
-      ]
+      "images": []
     }
   ],
   "pakaian": [
