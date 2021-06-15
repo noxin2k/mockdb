@@ -10,7 +10,7 @@
       "images": [
         {
           "id": "p1-1",
-          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+          "url": "https://noxin2k.github.io/Images/orange.png"
         },
         {
           "id": "p1-2",
@@ -18,7 +18,7 @@
         },
         {
           "id": "p1-3",
-          "url": "https://noxin2k.github.io/Images/orange.png"
+          "url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
         }
       ]
     },
@@ -167,6 +167,7 @@
     {
       "id": "b2",
       "title": "Buku Ungu",
+      "oldPrice": 36000.0,
       "price": 18000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
@@ -175,6 +176,7 @@
     {
       "id": "b3",
       "title": "Buku Putih",
+      "oldPrice": 41000.0,
       "price": 21000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
@@ -183,6 +185,7 @@
     {
       "id": "b4",
       "title": "Buku Merah",
+      "oldPrice": 39000.0,
       "price": 31000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
@@ -191,6 +194,7 @@
     {
       "id": "b5",
       "title": "Buku Kuning",
+      "oldPrice": 18000.0,
       "price": 10000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
@@ -198,7 +202,8 @@
     },
     {
       "id": "b6",
-      "title": "Buku Oren",
+      "title": "Buku Hitam",
+      "oldPrice": 40000.0,
       "price": 31000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
@@ -207,7 +212,8 @@
     {
       "id": "b7",
       "title": "Buku Pink",
-      "price": 61000.0,
+      "oldPrice": 60000.0,
+      "price": 31000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png"
@@ -215,6 +221,6 @@
   ],
 
   "profile": {
-    "name": "typicode"
+    "name": "noxin"
   }
 }
