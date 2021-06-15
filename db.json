@@ -6,7 +6,24 @@
       "price": 91000.00,
       "description": "Baju Oren milik si oren",
       "category": "Pakaian",
-      "image": "https://noxin2k.github.io/Images/orange.png"
+      "image": "https://noxin2k.github.io/Images/orange.png",
+      "images": [
+        {
+          "id": "p1-1",
+          "url": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "type": "image/jpeg",
+        },
+        {
+          "id": "p1-2",
+          "url": "https://noxin2k.github.io/Images/orange.png",
+          "type": "image/jpeg",
+        },
+        {
+          "id": "p1-3",
+          "url": "https://noxin2k.github.io/Images/putih.png",
+          "type": "image/jpeg",
+        } 
+      ]
     },
     {
       "id": "p2",
