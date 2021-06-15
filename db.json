@@ -1,7 +1,7 @@
 {
-  "pakaian": [
+  "semua": [
     {
-      "id": "467f9790-d94f-4479-a1ab-bc75cd11d7c1",
+      "id": "p1",
       "title": "Si Oren",
       "price": 91000.00,
       "description": "Baju Oren milik si oren",
@@ -9,7 +9,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 2,
+      "id": "p2",
       "title": "Ungu",
       "price": 401000.00,
       "description": "Baju Ungu milik si ungu",
@@ -17,7 +17,7 @@
       "image": "https://noxin2k.github.io/Images/purple.jpg"
     },
     {
-      "id": 3,
+      "id": "p3",
       "title": "Putih",
       "price": 500000.00,
       "description": "Baju Putih",
@@ -25,7 +25,7 @@
       "image": "https://noxin2k.github.io/Images/putih.png"
     },
     {
-      "id": 4,
+      "id": "p4",
       "title": "Merah",
       "price": 1000000.00,
       "description": "Baju Merah",
@@ -33,7 +33,106 @@
       "image": "https://noxin2k.github.io/Images/merah.png"
     },
     {
-      "id": 5,
+      "id": "p5",
+      "title": "Kuning",
+      "price": 200000.00,
+      "description": "Baju Kuning",
+      "category": "Pakaian",
+      "image": "https://noxin2k.github.io/Images/kuning.jpg"
+    },
+    {
+      "id": "b1",
+      "title": "Buku Oren",
+      "oldPrice": 18000.0,
+      "price": 9000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b2",
+      "title": "Buku Ungu",
+      "price": 18000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b3",
+      "title": "Buku Putih",
+      "price": 21000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b4",
+      "title": "Buku Merah",
+      "price": 31000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b5",
+      "title": "Buku Kuning",
+      "price": 10000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b6",
+      "title": "Buku Oren",
+      "price": 31000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "b7,
+      "title": "Buku Pink",
+      "price": 61000.0,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Buku",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    }
+  ],
+  "pakaian": [
+    {
+      "id": "p1",
+      "title": "Si Oren",
+      "price": 91000.00,
+      "description": "Baju Oren milik si oren",
+      "category": "Pakaian",
+      "image": "https://noxin2k.github.io/Images/orange.png"
+    },
+    {
+      "id": "p2",
+      "title": "Ungu",
+      "price": 401000.00,
+      "description": "Baju Ungu milik si ungu",
+      "category": "Pakaian",
+      "image": "https://noxin2k.github.io/Images/purple.jpg"
+    },
+    {
+      "id": "p3",
+      "title": "Putih",
+      "price": 500000.00,
+      "description": "Baju Putih",
+      "category": "Pakaian",
+      "image": "https://noxin2k.github.io/Images/putih.png"
+    },
+    {
+      "id": "p4",
+      "title": "Merah",
+      "price": 1000000.00,
+      "description": "Baju Merah",
+      "category": "Pakaian",
+      "image": "https://noxin2k.github.io/Images/merah.png"
+    },
+    {
+      "id": "p5",
       "title": "Kuning",
       "price": 200000.00,
       "description": "Baju Kuning",
@@ -43,7 +142,7 @@
   ],
   "buku": [
     {
-      "id": 1,
+      "id": "b1",
       "title": "Buku Oren",
       "oldPrice": 18000.0,
       "price": 9000.0,
@@ -52,7 +151,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 2,
+      "id": "b2",
       "title": "Buku Ungu",
       "price": 18000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -60,7 +159,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 3,
+      "id": "b3",
       "title": "Buku Putih",
       "price": 21000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -68,7 +167,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 4,
+      "id": "b4",
       "title": "Buku Merah",
       "price": 31000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -76,7 +175,7 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 5,
+      "id": "b5",
       "title": "Buku Kuning",
       "price": 10000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -84,17 +183,17 @@
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 6,
-      "title": "Si Oren",
-      "price": 11000.0,
+      "id": "b6",
+      "title": "Buku Oren",
+      "price": 31000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png"
     },
     {
-      "id": 7,
-      "title": "Si Oren",
-      "price": 31000.0,
+      "id": "b7,
+      "title": "Buku Pink",
+      "price": 61000.0,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "Buku",
       "image": "https://noxin2k.github.io/Images/orange.png"
